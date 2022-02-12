@@ -1,6 +1,6 @@
 package com.dhbw.searchengine.interfaces;
 
-import com.dhbw.internet.Link;
+import com.dhbw.www.Link;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.dhbw.internet;
+package com.dhbw.www;
 
 import java.io.File;
 import java.io.FileNotFoundException;

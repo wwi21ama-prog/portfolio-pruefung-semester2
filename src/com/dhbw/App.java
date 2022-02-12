@@ -1,7 +1,7 @@
 package com.dhbw;
 
-import com.dhbw.internet.Resolver;
-import com.dhbw.internet.Response;
+import com.dhbw.www.Resolver;
+import com.dhbw.www.Response;
 
 public class App {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.dhbw.internet;
+package com.dhbw.www;
 
 public enum ResponseStatus {
     FOUND,
