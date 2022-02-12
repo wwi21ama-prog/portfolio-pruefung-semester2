@@ -1,6 +1,6 @@
-package com.dhbw.searchengine.interfaces;
+package dieprogrammierdozenten.searchengine.interfaces;
 
-import com.dhbw.www.Link;
+import dieprogrammierdozenten.www.Link;
 
 import java.util.List;
 
@@ -8,6 +8,8 @@ public interface IDatabase {
     int getVisitedDomainsCount();
 
     int getVisitedUniquePagesCount();
+
+    List<String> getSearchIndex();
 
     List<Link> getVisitedLinks();
 

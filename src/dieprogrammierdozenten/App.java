@@ -1,7 +1,7 @@
-package com.dhbw;
+package dieprogrammierdozenten;
 
-import com.dhbw.www.Resolver;
-import com.dhbw.www.Response;
+import dieprogrammierdozenten.www.Resolver;
+import dieprogrammierdozenten.www.Response;
 
 public class App {
     public static void main(String[] args) {

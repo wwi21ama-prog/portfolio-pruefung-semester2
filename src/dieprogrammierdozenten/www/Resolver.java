@@ -1,4 +1,4 @@
-package com.dhbw.www;
+package dieprogrammierdozenten.www;
 
 import java.io.File;
 import java.io.FileNotFoundException;

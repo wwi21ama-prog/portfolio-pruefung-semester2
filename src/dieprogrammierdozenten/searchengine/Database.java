@@ -1,7 +1,7 @@
-package com.dhbw.searchengine;
+package dieprogrammierdozenten.searchengine;
 
-import com.dhbw.www.Link;
-import com.dhbw.searchengine.interfaces.IDatabase;
+import dieprogrammierdozenten.www.Link;
+import dieprogrammierdozenten.searchengine.interfaces.IDatabase;
 
 import java.util.List;
 
@@ -24,5 +24,10 @@ public class Database implements IDatabase {
     @Override
     public int getVisitedUniquePagesCount() {
         return 0;
+    }
+
+    @Override
+    public List<String> getSearchIndex() {
+        return null;
     }
 }

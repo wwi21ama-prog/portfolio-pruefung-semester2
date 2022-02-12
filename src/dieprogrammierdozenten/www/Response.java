@@ -1,4 +1,4 @@
-package com.dhbw.www;
+package dieprogrammierdozenten.www;
 
 public class Response {
     private ResponseStatus status;
