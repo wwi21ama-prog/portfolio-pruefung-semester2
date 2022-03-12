@@ -1,10 +1,12 @@
 package dieprogrammierdozenten.www;
 
+import dieprogrammierdozenten.www.interfaces.IResolver;
+
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-public class Resolver {
+public class Resolver implements IResolver {
     private static final String FOLDER_PREFIX = "websites/";
 
     private String loadFile(String path) throws FileNotFoundException, NullPointerException {
