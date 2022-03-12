@@ -23,18 +23,17 @@ Denken Sie auch daran, dass der Webcrawler Verlinkungen auf unterschiedlichen We
 
 ## Organisatorisches
 ### Bearbeitung
-Diese Portfolioprüfung wird nicht in einer Gruppe, sondern **einzeln** bearbeitet und abgegeben. Werden **einzelne** Aspekte gemeinsam erarbeitet, muss dies ausdrücklich im Quellcode und in der Dokumentation gekennzeichnet werden.
+Diese Portfolioprüfung wird **einzeln** bearbeitet und abgegeben.
 
 ### Abstimmungstermin
-Pro Person ist ein verpflichtender Termin angesetzt, bei dem der jeweilige Zwischenstand besprochen wird. Ziel ist die Prüfung der Eigenständigkeit und die Möglichkeit zur
-Beratung durch die Dozenten.
+Pro Person ist ein verpflichtender Termin angesetzt, bei dem der jeweilige Zwischenstand besprochen wird. Ziel ist die Prüfung der Eigenständigkeit. Das Bestehen dieses Termins ist Voraussetzung für die Zulassung zur Prüfung.
 Die möglichen Terminslots werden auf Moodle veröffentlicht und gebucht. Die Zeitpunkte werden individuell zwischen Studierenden und Dozenten vereinbart.
 Zu diesem Zeitpunkt muss die noch nicht vollständig sein. Sie sollten aber zumindest schon die Basis-Aufgaben gründlich bearbeitet haben, um eine gute Diskussionsgrundlage zu besitzen.
 
 Die erfolgreiche Teilnahme am Abstimmungstermin ist Voraussetzung für das Bestehen der Prüfung.
 
 ### Abgabe
-Die Abgabe hat spätestens am **xx.xx.2022 um 23:59 Uhr (CET)** über Moodle zu erfolgen. Abzugeben ist eine ZIP-Datei mit dem **ausführbaren** Quellcode (`.java`-Dateien) und der Dokumentation (PDF).
+Die Abgabe hat spätestens am **xx.xx.2022 um 23:59 Uhr (MESZ)** über Moodle zu erfolgen. Abzugeben ist eine ZIP-Datei mit dem **ausführbaren** Quellcode (`.java`-Dateien) und der Dokumentation (PDF).
 
 Bitte nennen Sie Name und Matrikelnummer auf dem Deckblatt der Dokumentation.
 
@@ -46,9 +45,10 @@ Bitte nennen Sie Name und Matrikelnummer auf dem Deckblatt der Dokumentation.
 - **Deckblatt:** Name und Matrikelnummer
 - **Umfang:** Keine Vorgabe für minimale oder maximale Seitenanzahl, ca. 8 - 10 Seiten sind realistisch
 - **Ziel:** Gesamtkonzept beschreiben
-    - Klassendiagramm (UML) mit Klassen, Attributen, Methoden, Sichtbarkeiten und Beziehungen
+    - Visualisierung des Konzepts
     - Vorgehen und Umsetzung z. B. von Datenbank, Crawling-Algorithmus und Suchlogiken beschreiben und erklären
     - Entscheidungen (z. B. für spezielle Datenstrukturen) erklären
+    - Komplexitätsbetrachtung der verwendeten Algorithmen und Datenstrukturen
 
 ### Funktionalität
 
@@ -67,4 +67,4 @@ Siehe [Aufgaben.md](Aufgaben.md).
 
 ## Deadlines
 
-- Abgabe von Dokumentation und Code spätestens am **xx.xx.2022 um 23:59 Uhr (CET)** über Moodle
+- Abgabe von Dokumentation und Code spätestens am **xx.xx.2022 um 23:59 Uhr (MESZ)** über Moodle

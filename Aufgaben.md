@@ -9,7 +9,7 @@ existiert und in die Datenbank aufgenommen werden muss. Außerdem enthält eine 
 Sie z. B.
 bei [W3Schools](https://www.w3schools.com/html/).
 
-## Basis-Aufgaben
+## Basis-Aufgaben (Mindestanforderung)
 
 Im Quell-Ordner sind eine `App`-Klasse und eine Reihe von `Interfaces` vorgegeben. Ein Interface ist eine leere Klassenvorlage, die vorgibt, welche Methoden eine Klasse besitzen muss.
 
@@ -30,8 +30,7 @@ nach dem Start des Webcrawlers mit der Domain `https://www.dhbw.de/startseite` m
 4. Implementieren Sie die Funktionalität von `findLinksContaining(String query)` in der Klasse `Datenbank`, sodass für einen beliebigen Suchbegriff (bspw. "bachelor") alle Webseiten (Links) angezeigt werden, die diesen Suchbegriff beinhalten. Die 
    Groß- und Kleinschreibung des Suchbegriffs sollte dabei keine Rolle spielen.
 
-## Bonusaufgaben
-Die Bonusaufgaben sind optional und nicht für das Erreichen der vollen Punktzahl notwendig, können aber bspw. kleinere Fehler in den Basis- oder fortgeschrittenen Aufgaben kompensieren.
+## Expertenaufgaben
 
 ### Ranking
 Integrieren Sie eine Möglichkeit zum Rating von Webseiten in Ihr Programm. Dabei soll der Webcrawler Webseiten ein höheres Rating zuweisen, auf die von mehreren anderen Webseiten verlinkt werden. Außerdem sollen Webseiten ein höheres Ranking 
@@ -49,3 +48,6 @@ Für den Parameterwert `2` sieht das bspw. wie folgt aus:
 4. `Crawler 1` folgt den Links `A` und `B` und startet `Crawler 2`
 5. `Crawler 2` arbeitet die Links `C` und `D` ab
 6. ...
+
+### Crawlen des echten World Wide Webs
+Implementieren Sie Ihren eigenen `Resolver`, der nicht die simulierte lokale Struktur nutzt, sondern die tatsächlichen Webseiten aufruft und scannt. 
