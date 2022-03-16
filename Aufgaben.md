@@ -5,9 +5,8 @@
 Im Paket `dieprogrammierdozenten.www` finden Sie drei Klassen, die auf sehr einfache Weise die Funktionsweise des World Wide Web (WWW) simulieren. Sie können über ein Objekt der Klasse `Resolver` eine URL aufrufen (`getUrl(String url)`) und erhalten
 ein Objekt der Klasse `Response` zurück. Dieses enthält einen `ResponseStatus`, der entweder den Wert `FOUND` oder, falls die URL nicht gefunden wurde, `NOT_FOUND` besitzt. Darüber kann Ihr Webcrawler erkennen, ob der übergebene Link valide ist bzw.
 existiert und in die Datenbank aufgenommen werden muss. Außerdem enthält eine `Response` neben der aufgerufenen `domain` sowie dem
-`path` auch den Quelltext der Seite (`source`), der in der Hypertext Markup Language (HTML) verfasst ist und Textinhalte (bspw. `<p></p>`) sowie Links zu weiteren Webseiten (`<a></a>`) enthalten kann. Eine Einführung in die Syntax von HTML finden 
-Sie z. B.
-bei [W3Schools](https://www.w3schools.com/html/).
+`path` auch den Quelltext der Seite (`source`), der in der Hypertext Markup Language (HTML) verfasst ist und Textinhalte (bspw. `<p></p>`) sowie Links zu weiteren Webseiten (`<a></a>`) enthalten kann.
+Eine Einführung in die Syntax von HTML finden Sie z.B. bei [W3Schools](https://www.w3schools.com/html/).
 
 ## Basis-Aufgaben (Mindestanforderung)
 
