@@ -26,11 +26,11 @@ Denken Sie auch daran, dass der Webcrawler Verlinkungen auf unterschiedlichen We
 Diese Portfolioprüfung wird **einzeln** bearbeitet und abgegeben.
 
 ### Abstimmungstermin
-Pro Person ist ein verpflichtender Termin angesetzt, bei dem der jeweilige Zwischenstand besprochen wird. Ziel ist die Prüfung der Eigenständigkeit. Das Bestehen dieses Termins ist Voraussetzung für die Zulassung zur Prüfung.
+Pro Person ist ein verpflichtender Termin angesetzt, bei dem der jeweilige Zwischenstand besprochen wird. Ziel ist die Prüfung der Eigenständigkeit.
 Die möglichen Terminslots werden auf Moodle veröffentlicht und gebucht. Die Zeitpunkte werden individuell zwischen Studierenden und Dozenten vereinbart.
 Zu diesem Zeitpunkt muss das Projekt noch nicht vollständig umgesetzt sein. Sie sollten aber zumindest schon die Basis-Aufgaben gründlich bearbeitet haben, um eine gute Diskussionsgrundlage zu besitzen.
 
-Die erfolgreiche Teilnahme am Abstimmungstermin ist Voraussetzung für das Bestehen der Prüfung.
+Das Bestehen dieses Termins ist Voraussetzung für die Zulassung zur Prüfung.
 
 ### Abgabe
 Die Abgabe hat spätestens am **xx.xx.2022 um 23:59 Uhr (MESZ)** über Moodle zu erfolgen. Abzugeben ist eine ZIP-Datei mit dem **ausführbaren** Quellcode (`.java`-Dateien) und der Dokumentation (PDF).
