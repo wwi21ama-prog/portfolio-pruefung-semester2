@@ -67,4 +67,4 @@ Siehe [Aufgaben.md](Aufgaben.md).
 
 ## Deadlines
 
-- Abgabe von Dokumentation und Code spätestens am **xx.xx.2022 um 23:59 Uhr (MESZ)** über Moodle
+- Abgabe von Dokumentation und Code spätestens am **06.05.2022 um 23:59 Uhr (MESZ)** über Moodle
