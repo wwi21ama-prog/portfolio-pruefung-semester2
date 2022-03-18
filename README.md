@@ -33,7 +33,7 @@ Zu diesem Zeitpunkt muss das Projekt noch nicht vollständig umgesetzt sein. Sie
 Das Bestehen dieses Termins ist Voraussetzung für die Zulassung zur Prüfung.
 
 ### Abgabe
-Die Abgabe hat spätestens am **xx.xx.2022 um 23:59 Uhr (MESZ)** über Moodle zu erfolgen. Abzugeben ist eine ZIP-Datei mit dem **ausführbaren** Quellcode (`.java`-Dateien) und der Dokumentation (PDF).
+Die Abgabe hat spätestens am **06.05.2022 um 23:59 Uhr (MESZ)** über Moodle zu erfolgen. Abzugeben ist eine ZIP-Datei mit dem **ausführbaren** Quellcode (`.java`-Dateien) und der Dokumentation (PDF).
 
 Bitte nennen Sie Name und Matrikelnummer auf dem Deckblatt der Dokumentation.
 
